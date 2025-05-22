@@ -24,12 +24,4 @@ Experimental data and code for developing machine learning models predict meltin
 
 If you find the code useful for your research, please consider citing
 
-```
-@inproceedings{Mengyang_2024_IonGen,
-  author       = {Mengyang Qu, Gyanendra Sharma, Naoki Wada, Hisaki Ikebata, Shigeyuki Matsunami and Kenji Takahashi},
-  title        = {Machine Learning-Driven Generation and Screening of Potential Ionic Liquids for Cellulose Dissolution},
-  year         = 2024,
-  publisher    = {},
-  howpublished = {},
-}
-```
+Qu, M., Sharma, G., Wada, N. et al. Machine learning-driven generation and screening of potential ionic liquids for cellulose dissolution. J Cheminform 17, 78 (2025). https://doi.org/10.1186/s13321-025-01018-z
